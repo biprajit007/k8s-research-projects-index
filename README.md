@@ -57,10 +57,5 @@ A collection of 10 Kubernetes-focused research/demo repositories covering ingres
 - Service failover
 - Resource optimization
 
-## Local Paths
 
-All repositories are stored under:
-
-```text
-/Users/mac/Documents/my_projects
 ```
